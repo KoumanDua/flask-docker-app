@@ -15,7 +15,7 @@ Il s'agit d'un exemple simple mais professionnel pour illustrer mes compétences
 
 ---
 
-## 🛠Technologies utilisées
+## Technologies utilisées
 
 -  Python 3
 - Flask
@@ -23,3 +23,5 @@ Il s'agit d'un exemple simple mais professionnel pour illustrer mes compétences
 - Ubuntu 20.04
 
 ---
+## Executer le conteneur
+docker run -p 8080:8080 flask-app
