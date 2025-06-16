@@ -21,6 +21,7 @@ Il s'agit d'un exemple simple mais professionnel pour illustrer mes compétences
 - Flask
 - Docker
 - Ubuntu 20.04
+- Powershell
 
 ---
 ## Executer le conteneur
