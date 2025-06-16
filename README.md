@@ -1,4 +1,4 @@
-# 🌐 Mini API Flask Dockerisée
+# Mini API Flask Dockerisée
 
 Ce projet présente une **mini-application web Flask** déployée dans un **conteneur Docker** basé sur Ubuntu 20.04.  
 Il s'agit d'un exemple simple mais professionnel pour illustrer mes compétences en **Python**, **Docker**, et **développement web**.
@@ -15,7 +15,7 @@ Il s'agit d'un exemple simple mais professionnel pour illustrer mes compétences
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🛠Technologies utilisées
 
 -  Python 3
 - Flask
